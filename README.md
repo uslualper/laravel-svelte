@@ -11,6 +11,7 @@ This is Laravel project but it uses different technologies in it like svelte, ta
 
 * [PHP 8.1](https://www.php.net/releases/8.1/en.php)
 * [NodeJS 14+](https://nodejs.org/en/)
+* [Database (MySQL or MariaDB)](https://www.mysql.com/)
 
 ## Installation
 
